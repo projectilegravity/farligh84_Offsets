@@ -1,5 +1,6 @@
 {
   "uworld_offset": "0xa952c28",
   "gameinstance_offset": "0x1f8",
-  "gamestate_offset": "0x1a0"
+  "gamestate_offset": "0x1a0",
+  "localplayer_offset": "0x38"
 }
