@@ -1,7 +1,14 @@
 {
-  "last_updated": "10.25.2025",
-  "uworld_offset": "0xa952c28",
-  "gameinstance_offset": "0x1f8",
-  "gamestate_offset": "0x1a0",
-  "localplayer_offset": "0x38"
+  "last_updated": "10.27.2025",
+  "UWorld": "0xAE9ECD0",
+  "GNames": "0xAD24A00",
+  "OwningGameInstance": "0x1F8",
+  "ULocalPlayers": "0x38",
+  "GameState": "0x1A0",
+  "PersistentLevel": "0x30",
+  "Actors": "0x98",
+  "ActorCount": "0xA0",
+  "ActorID": "0x18",
+  "Mesh": "0x288",
+  "PlayerState": "0x248"
 }
